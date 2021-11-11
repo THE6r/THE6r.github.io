@@ -1,6 +1,11 @@
 body {
   background-color: pink;
 }
+centerImage
+{
+ text-align:center;
+ display:block;
+}
 h1 {
   color: blue;
 }
